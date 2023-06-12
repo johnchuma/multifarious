@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/multifarious/static/css/main.311a2d1b.css",
-    "main.js": "/multifarious/static/js/main.5f322b38.js",
-    "static/js/787.0962c4ff.chunk.js": "/multifarious/static/js/787.0962c4ff.chunk.js",
-    "static/media/AeonikTRIAL-Bold.otf": "/multifarious/static/media/AeonikTRIAL-Bold.bb271c04181fa945fbbe.otf",
-    "static/media/AeonikTRIAL-Light.otf": "/multifarious/static/media/AeonikTRIAL-Light.009c9821ae675a01f868.otf",
-    "static/media/AeonikTRIAL-Regular.otf": "/multifarious/static/media/AeonikTRIAL-Regular.f252af9282d8460f6582.otf",
-    "index.html": "/multifarious/index.html",
-    "main.311a2d1b.css.map": "/multifarious/static/css/main.311a2d1b.css.map",
-    "main.5f322b38.js.map": "/multifarious/static/js/main.5f322b38.js.map",
-    "787.0962c4ff.chunk.js.map": "/multifarious/static/js/787.0962c4ff.chunk.js.map"
+    "main.css": "/static/css/main.475582b1.css",
+    "main.js": "/static/js/main.826fa300.js",
+    "static/js/787.0962c4ff.chunk.js": "/static/js/787.0962c4ff.chunk.js",
+    "static/media/AeonikTRIAL-Bold.otf": "/static/media/AeonikTRIAL-Bold.bb271c04181fa945fbbe.otf",
+    "static/media/AeonikTRIAL-Light.otf": "/static/media/AeonikTRIAL-Light.009c9821ae675a01f868.otf",
+    "static/media/AeonikTRIAL-Regular.otf": "/static/media/AeonikTRIAL-Regular.f252af9282d8460f6582.otf",
+    "index.html": "/index.html",
+    "main.475582b1.css.map": "/static/css/main.475582b1.css.map",
+    "main.826fa300.js.map": "/static/js/main.826fa300.js.map",
+    "787.0962c4ff.chunk.js.map": "/static/js/787.0962c4ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.311a2d1b.css",
-    "static/js/main.5f322b38.js"
+    "static/css/main.475582b1.css",
+    "static/js/main.826fa300.js"
   ]
 }
